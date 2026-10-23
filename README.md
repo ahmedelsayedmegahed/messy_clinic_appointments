@@ -12,8 +12,8 @@ The goal is to identify data quality issues, standardize inconsistent values, ha
 
 ## 📂 Dataset
 
-- **Original Dataset:** [Raw Dataset](Dataset/messy_clinic_appointments.csv)
-- **Cleaned Dataset:** [Cleaned Dataset](Dataset/cleaned_clinic_appointments.xlsx)
+- **Original Dataset:** <a href="https://github.com/ahmedelsayedmegahed/messy_clinic_appointments/blob/main/messy_clinic_appointments.csv">Original Dataset</a>
+- **Cleaned Dataset:** <a href="https://github.com/ahmedelsayedmegahed/messy_clinic_appointments/blob/main/cleaned_clinic_appointments.xlsx">Cleaned Dataset</a>
 
 ### Dataset Overview
 
