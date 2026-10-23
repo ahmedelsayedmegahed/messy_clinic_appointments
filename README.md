@@ -90,13 +90,13 @@ This section presents a visual comparison of the original dataset and the cleane
 
 The original dataset contains inconsistent date formats, different representations of categorical values, missing entries, and mixed currency symbols.
 
-![Before Data Cleaning](Screenshots/Before.png)
+<a href="https://github.com/ahmedelsayedmegahed/messy_clinic_appointments/blob/main/Before.png">Before Data Cleaning</a>
 
 ### 🟢 After Data Cleaning
 
 The cleaned dataset demonstrates standardized formats, improved consistency, and validated values following the applied cleaning rules.
 
-![After Data Cleaning](Screenshots/After.png)
+<a href="https://github.com/ahmedelsayedmegahed/messy_clinic_appointments/blob/main/After.png">After Data Cleaning</a>
 
 ---
 
